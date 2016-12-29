@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForgetMeNot/ItemCell.swift"
+            timestampString = "504701944.507024"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "observeValue(forKeyPath:of:change:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ForgetMeNot.ItemCell.observeValue (forKeyPath : Swift.Optional&lt;Swift.String&gt;, of : Swift.Optional&lt;Any&gt;, change : Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context : Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "ForgetMeNot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohitsaini/Desktop/Beacathon_1/Beacathon_1/ForgetMeNot/ItemCell.swift"
+                  timestampString = "504701946.555406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ForgetMeNot.ItemCell.observeValue (forKeyPath : Swift.Optional&lt;Swift.String&gt;, of : Swift.Optional&lt;Any&gt;, change : Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context : Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "ForgetMeNot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohitsaini/Desktop/Beacathon_1/Beacathon_1/ForgetMeNot/ItemCell.swift"
+                  timestampString = "504701946.563533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForgetMeNot/ItemCell.swift"
+            timestampString = "504701944.971889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "observeValue(forKeyPath:of:change:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForgetMeNot/ItemCell.swift"
+            timestampString = "504701945.540231"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "observeValue(forKeyPath:of:change:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
